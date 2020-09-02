@@ -1,0 +1,15 @@
+.heading_2{
+    text-align:center;
+    color:blue;
+}
+.form_group{
+    padding-right: 70px;
+    width: 40px;
+}
+.image{
+    background-image: url(../image/img_1.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    size:50px;
+    
+}
